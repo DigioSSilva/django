@@ -1,0 +1,16 @@
+virtualenv venv
+
+venv\scripts\activate
+
+
+Your identification has been saved in C:\Users\RI-PC-0150/.ssh/id_rsa
+
+Your public key has been saved in C:\Users\RI-PC-0150/.ssh/id_rsa.pub
+
+
+parei no vídeo: 
+
+5. Django URLs, Views e Templates
+
+	6. introdução às URLs do Django e Django Views
+
