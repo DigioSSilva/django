@@ -14,3 +14,5 @@ parei no vídeo:
 
 	6. introdução às URLs do Django e Django Views
 
+
+
